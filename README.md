@@ -15,4 +15,4 @@ Plot data distribution to have a general knowledge how data were distributed.
 Create a dataframe where tasks aren't completed among care coordinators.
 ![](Images/uncompleted_tasks.png)
 Extract information where uncompleted tasks assinged to care coordinators.
-![](Images/uncompleted_tasks_distribution.png
+![](Images/uncompleted_tasks_distribution.png)
