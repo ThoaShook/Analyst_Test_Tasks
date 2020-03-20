@@ -16,3 +16,5 @@ Create a dataframe where tasks aren't completed among care coordinators.
 ![](Images/uncompleted_tasks.png)
 Extract information where uncompleted tasks assinged to care coordinators.
 ![](Images/uncompleted_tasks_distribution.png)
+Average duration by month for completed tasks where tasks = referral
+![](Images/average_duration_per_month.png)
