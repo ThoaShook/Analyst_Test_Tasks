@@ -10,4 +10,5 @@ many more. He/she is the bridge that fills in the gap between each department th
   4. Calculate the average number of appointment per nurse per day for each month.
   5. Report the findings and communicating the results with stakeholders.
 # Solutions:
-
+Plot data distribution to have a general knowledge how data were distributed.
+![](Images/Data_Distribution.png)
