@@ -33,7 +33,7 @@ Our predictive variable (PRS)  is a continuous dependent variable. Multilinear R
 This is just a test; building a model to predict a predictive require time, reliable non-bias resources. Different models could be used and validated before an optimal model is found. 
 
 Average number of appointments per day per LVN in each month for the year 2018.
-![](Images/appt_perday_perLVN.png)
+![](appt_perday_perLVN.png)
 
 
 
