@@ -32,12 +32,20 @@ many more. He/she is the bridge that fills in the gap between each department th
 ![](Images/Data_Distribution.png)
 
 Create a dataframe where tasks aren't completed among care coordinators.
+
 ![](Images/uncompleted_tasks.png)
+
+![](Images/Names_Numbers_Unfinished_Tasks.png)
+
 Extract information where uncompleted tasks assinged to care coordinators.
+
 ![](Images/uncompleted_tasks_distribution.png)
+
 Average duration by month for completed tasks for 12 month where tasks = referral (unit:day)
+
 ![](Images/Referral_vs_month.png)
-*** Notes:
+
+* Notes:
 On July, 2017 the number of referrals are 250. It decreases gradually to a little over 50 referrals for the month of Feb, 2018. It maintains 50 referrals for three months from Feb - April, 2018, and then starts going down. At July 2018 the referral for that month is almost zero !
 #### Modeling:
 Our predictive variable (PRS)  is a continuous dependent variable. Multilinear Regression Model is the best way to find relationships among these particular features. Let see what we have learn from our model:
