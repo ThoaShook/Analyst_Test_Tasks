@@ -7,19 +7,30 @@ many more. He/she is the bridge that fills in the gap between each department th
 
 #### Objective:
 
-  1. Create a deployment flowchart - Cross functional Flowchart to articulate the steps and stakeholders: Lead Care Coordinator, Primary Care Physicians -PCP, and Physician Provider Group Utilization Manager PPG-UM of an given authorization process. An authorization is requested for referral a patient to see a specialist such as Cardiologist, Hemotologist, Dermatologist,...et. An authorization has to be granted for a patient to obtain a Durable Medical Equipment -DME such as wheelchair, feeding tube, Nebulizer machine,.. etc.
+  1. Create a deployment flowchart - Cross functional Flowchart to articulate the steps and stakeholders: Lead Care Coordinator - LCC , Primary Care Physicians -PCP, and Physician Provider Group Utilization Manager-  PPG-UM of an given authorization process. An authorization is requested for referral a patient to see a specialist such as Cardiologist, Hemotologist, Dermatologist,...et. An authorization has to be granted for a patient to obtain a Durable Medical Equipment -DME such as wheelchair, feeding tube, Nebulizer machine,.. etc.
   2. Determine how uncompleted workload is divided among care coordinators.
   3. Compare the average duration, from created to completed, of the referral takss in the last 12 months by month and graph it.
   4. Determine relationship between target variable and dependent variables.
   5. Calculate the average number of appointment per nurse per day for each month.
-  6. Report the findings and communicating the results with stakeholders.
+  6. Report the findings and communicating the results with the stakeholders.
 
 #### Solutions:
 
+* Referral and Durable Medical Equipment Authorization Process
+
 ![](ProcessMapping_CrossFunctionalDiagram.png)
 
-Plot data distribution to have a general knowledge how data were distributed.
+* Notes:
+  * Providers: nurse practitioner or physician enter DME/Referral requests in the patient's record
+  * Every Sunday a LCC sends a list of DMEs/Referrals to the PPG-UM and the PPG-UM respond on Friday
+  * Every day a LCC sends a list of a new Urgent Referral/DME to the PPG-UM and the PPG-UM has to respond within 1-3 days with the authorization
+  * The LCC is responsible for updating such authorization in the patient's record
+
+
+* Plot data distribution to have a general knowledge how data were distributed.
+
 ![](Images/Data_Distribution.png)
+
 Create a dataframe where tasks aren't completed among care coordinators.
 ![](Images/uncompleted_tasks.png)
 Extract information where uncompleted tasks assinged to care coordinators.
