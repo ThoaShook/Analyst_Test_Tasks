@@ -50,10 +50,15 @@ many more. He/she is the bridge that fills in the gap between each department th
 ![](Images/Referral_vs_month.png)
 
 * Notes:
+
 On July, 2017 the number of referrals are 250. It decreases gradually to a little over 50 referrals for the month of Feb, 2018. It maintains 50 referrals for three months from Feb - April, 2018, and then starts going down. At July 2018 the referral for that month is almost zero!
 #### Modeling:
 
 Our predictive variable, Patient Reliable Score (PRS)  is a continuous dependent variable. Multilinear Regression Model is the best way to find relationships among these particular features. Let see what we have learn from our model:
+
+* Models algorithms and the results
+
+![](Images/MLNRegressionModel.png)
 
   * 1. Gender doesn’t have a significant impact on PRS (P-value >>> 0.05).
   * 2. Subzone[T.5e] has a certain impact on PRS (P-value < 0.05). 
@@ -62,9 +67,9 @@ Our predictive variable, Patient Reliable Score (PRS)  is a continuous dependent
   * 5. Chronic_conditions does not have any impact on whether or not a person is likely to keep his/her appt.
 
 ##### Suggestions:
-This is just a test; building a model to predict a predictive require time, reliable non-bias resources. Different models could be used and validated before an optimal model is found. 
+* This is just a test; building a model to predict a predictive require time, reliable non-bias resources. Different models could be used and validated before an optimal model is found. 
 
-Average number of appointments per day per LVN in each month for the year 2018.
+* Average number of appointments per day per LVN in each month for the year 2018.
 
 ![](appt_perday_perLVN.png)
 
